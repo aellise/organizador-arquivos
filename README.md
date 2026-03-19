@@ -10,12 +10,20 @@ Prática de automação com Python, simulando uma tarefa comum do dia a dia: org
 
 ## Execução
 
-1 - Clone o repositório: git clone https://github.com/aellise/organizador-arquivos.git
+1 - Clone o repositório: 
 
-2 - Acesse a pasta: cd organizador-arquivos
+git clone https://github.com/aellise/organizador-arquivos.git
 
-3 - Edite o caminho da pasta no arquivo organizador.py: pasta_origem = "/home/seu_usuario/Downloads"
+2 - Acesse a pasta: 
 
-4 - Execute o script: python3 organizador.py
+cd organizador-arquivos
+
+3 - Edite o caminho da pasta no arquivo organizador.py: 
+
+pasta_origem = "/home/seu_usuario/Downloads"
+
+4 - Execute o script: 
+
+python3 organizador.py
 
 
